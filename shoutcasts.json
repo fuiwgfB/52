@@ -1,5 +1,6 @@
 [
   {
+    "identificator" : "rmi_ng",
     "name" : "RMI New Generation",
     "stream" : "https://cast1.torontocast.com:1315/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-New.png",
@@ -7,6 +8,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "rmi_classic",
     "name" : "RMI Disco Classic",
     "stream" : "https://cast1.torontocast.com:1165/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-Classic.png",
@@ -14,6 +16,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "rmi_euro",
     "name" : "RMI Euro Disco",
     "stream" : "https://cast1.torontocast.com:1335/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-Disco.png",
@@ -21,6 +24,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "italo_dance_nonstop",
     "name" : "ITALO DANCE FM - NON STOP",
     "stream" : "http://188.40.97.185:8120/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo_nonstop.jpg",
@@ -28,6 +32,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "italo4you",
     "name" : "Italo4you",
     "stream" : "https://ssl-1.radiohost.pl:8018/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo4youlogo.jpg",
@@ -35,6 +40,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "hitradio",
     "name" : "Hitradio Polska",
     "stream" : "http://51.255.8.139:9090/stream/1/",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/hitradio.jpg",
@@ -42,6 +48,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "1000italohits",
     "name" : "1000 Italo Hits",
     "stream" : "http://1000italohits.stream.laut.fm/1000italohits",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/1000ITA.jpg",
@@ -49,6 +56,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "italopower",
     "name" : "ITALOPOWER!",
     "stream" : "https://stream.deevaradio.net:10443/italopower",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italopower.jpg",
@@ -56,6 +64,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "italosound",
     "name" : "Italo Sound",
     "stream" : "https://icecast.italosound.com/italosound",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italosound.jpg",
@@ -63,6 +72,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "italoscene",
     "name" : "Italoscene",
     "stream" : "http://italoscene.stream.laut.fm/italoscene",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italoscene.jpg",
@@ -70,6 +80,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "synthetic",
     "name" : "Synthetic FM - The New Italo Generation",
     "stream" : "http://stream.syntheticfm.com:8030/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/syntheticfm.jpg",
@@ -77,6 +88,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "80s80s",
     "name" : "80s80s Italo Disco",
     "stream" : "https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/80s80s.jpg",
@@ -84,6 +96,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "italodisconet",
     "name" : "RADIO ITALO DISCO NET",
     "stream" : "https://cast2.asurahosting.com/proxy/alen/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/radioitalodisconet.jpg",
@@ -91,6 +104,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "mirage",
     "name" : "Radio Mirage - Italo Dance",
     "stream" : "https://ssl-1.radiohost.pl:9569/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/mirage.jpg",
@@ -98,6 +112,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "italodancepilot",
     "name" : "ItaloDance Pilot",
     "stream" : "http://145.239.26.146:7694/stream/1/",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodiscopilot.jpg",
@@ -105,6 +120,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "openfmitalodisco",
     "name" : "OpenFM - Italo Disco",
     "stream" : "http://stream.open.fm/27",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/openfm.jpg",
@@ -112,6 +128,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "oxygen_italo",
     "name" : "Oxygen - Italian Classic Hits",
     "stream" : "https://oxygenmusic.hu:8443/oxygenitalohits_128",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/oxygen.jpg",
@@ -119,6 +136,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "mixitalo",
     "name" : "Mixitalo",
     "stream" : "https://mixitalo.stream.laut.fm/mixitalo",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
@@ -126,6 +144,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "synthizitalo_disco",
     "name" : "Synthizitalo Disco",
     "stream" : "http://synthizitalodisco.stream.laut.fm/synthizitalodisco",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
@@ -133,6 +152,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "italo-disco",
     "name" : "Italo-Disco",
     "stream" : "https://italo-disco.stream.laut.fm/italo-disco",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
@@ -140,6 +160,7 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "italo_disco_stream",
     "name" : "Italo Disco stream",
     "stream" : "http://italo-disco.stream.laut.fm/italo-disco",
     "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg",
