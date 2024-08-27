@@ -136,11 +136,35 @@
     "metadata" : "true"
   },
   {
+    "identificator" : "rdmixitalo",
+    "name" : "RdMix Italo Disco 80s",
+    "stream" : "https://cast1.torontocast.com:2130/stream",
+    "picture" : "https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg",
+    "number" : "18",
+    "metadata" : "true"
+  },
+  {
+    "identificator" : "fantasyitaloradio",
+    "name" : "Fantasy Italo Radio",
+    "stream" : "https://italo.live-streams.nl/fantasy",
+    "picture" : "https://italo.nu/fantasy-logo.png",
+    "number" : "18.1",
+    "metadata" : "true"
+  },
+  {
+    "identificator" : "italodiscogermany",
+    "name" : "Italo Disco Germany",
+    "stream" : "https://italo-disco.stream.laut.fm/italo-disco",
+    "picture" : "https://cdn.onlineradiobox.com/img/l/1/44061.v2.png",
+    "number" : "18.2",
+    "metadata" : "true"
+  },
+  {
     "identificator" : "mixitalo",
     "name" : "Mixitalo",
     "stream" : "https://mixitalo.stream.laut.fm/mixitalo",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
-    "number" : "18",
+    "number" : "19",
     "metadata" : "true"
   },
   {
@@ -148,7 +172,7 @@
     "name" : "Synthizitalo Disco",
     "stream" : "http://synthizitalodisco.stream.laut.fm/synthizitalodisco",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
-    "number" : "19",
+    "number" : "20",
     "metadata" : "true"
   },
   {
@@ -156,14 +180,6 @@
     "name" : "Italo-Disco",
     "stream" : "https://italo-disco.stream.laut.fm/italo-disco",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
-    "number" : "20",
-    "metadata" : "true"
-  },
-  {
-    "identificator" : "italo_disco_stream",
-    "name" : "Italo Disco stream",
-    "stream" : "http://italo-disco.stream.laut.fm/italo-disco",
-    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg",
     "number" : "21",
     "metadata" : "true"
   }
