@@ -106,7 +106,7 @@
   {
     "identificator" : "mirage",
     "name" : "Radio Mirage - Italo Dance",
-    "stream" : "https://ssl-1.radiohost.pl:9569/stream",
+    "stream" : "https://www.liveradio.es/https://ssl-1.radiohost.pl:9569/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/mirage.jpg",
     "number" : "14",
     "metadata" : "true"
@@ -138,7 +138,7 @@
   {
     "identificator" : "rdmixitalo",
     "name" : "RdMix Italo Disco 80s",
-    "stream" : "https://cast1.torontocast.com:2130/stream",
+    "stream" : "https://www.liveradio.es/https://cast1.torontocast.com:2130/stream",
     "picture" : "https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg",
     "number" : "18",
     "metadata" : "true"
