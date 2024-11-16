@@ -2,7 +2,7 @@
   {
     "identificator" : "rmi_ng",
     "name" : "RMI New Generation",
-    "stream" : "https://tunestation.ru/https://cast1.torontocast.com:1315/stream",
+    "stream" : "https://cast1.torontocast.com:1315/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-New.png",
     "number" : "1",
     "metadata" : "true"
@@ -10,7 +10,7 @@
   {
     "identificator" : "rmi_classic",
     "name" : "RMI Disco Classic",
-    "stream" : "https://tunestation.ru/https://cast1.torontocast.com:1165/stream",
+    "stream" : "https://cast1.torontocast.com:1165/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-Classic.png",
     "number" : "2",
     "metadata" : "true"
@@ -18,7 +18,7 @@
   {
     "identificator" : "rmi_euro",
     "name" : "RMI Euro Disco",
-    "stream" : "https://tunestation.ru/https://cast1.torontocast.com:1335/stream",
+    "stream" : "https://cast1.torontocast.com:1335/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-Disco.png",
     "number" : "3",
     "metadata" : "true"
@@ -34,7 +34,7 @@
   {
     "identificator" : "italo4you",
     "name" : "Italo4you",
-    "stream" : "https://tunestation.ru/https://ssl-1.radiohost.pl:8018/stream",
+    "stream" : "https://ssl-1.radiohost.pl:8018/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italo4youlogo.jpg",
     "number" : "5",
     "metadata" : "true"
@@ -106,7 +106,7 @@
   {
     "identificator" : "mirage",
     "name" : "Radio Mirage - Italo Dance",
-    "stream" : "https://tunestation.ru/https://ssl-1.radiohost.pl:9569/stream",
+    "stream" : "https://ssl-1.radiohost.pl:9569/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/mirage.jpg",
     "number" : "14",
     "metadata" : "true"
@@ -138,7 +138,7 @@
   {
     "identificator" : "rdmixitalo",
     "name" : "RdMix Italo Disco 80s",
-    "stream" : "https://tunestation.ru/https://cast1.torontocast.com:2130/stream",
+    "stream" : "https://cast1.torontocast.com:2130/stream",
     "picture" : "https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg",
     "number" : "18",
     "metadata" : "true"
