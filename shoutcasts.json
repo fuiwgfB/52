@@ -120,19 +120,11 @@
     "metadata" : "true"
   },
   {
-    "identificator" : "openfmitalodisco",
-    "name" : "OpenFM - Italo Disco",
-    "stream" : "http://stream.open.fm/27",
-    "picture" : "https://fuiwgfb.github.io/52/italo_icon/openfm.jpg",
-    "number" : "16",
-    "metadata" : "true"
-  },
-  {
     "identificator" : "oxygen_italo",
     "name" : "Oxygen - Italian Classic Hits",
     "stream" : "https://oxygenmusic.hu:8443/oxygenitalohits_128",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/oxygen.jpg",
-    "number" : "17",
+    "number" : "16",
     "metadata" : "true"
   },
   {
@@ -140,7 +132,7 @@
     "name" : "RdMix Italo Disco 80s",
     "stream" : "https://cast1.torontocast.com:2130/stream",
     "picture" : "https://radiodimensionemix.torontocast.stream/wp-content/uploads/2023/07/RDMIX-ITALO-DISCO-80S_200.jpg",
-    "number" : "18",
+    "number" : "17",
     "metadata" : "true"
   },
   {
@@ -148,7 +140,7 @@
     "name" : "Fantasy Italo Radio",
     "stream" : "https://italo.live-streams.nl/fantasy",
     "picture" : "https://italo.nu/fantasy-logo.png",
-    "number" : "18.1",
+    "number" : "18",
     "metadata" : "true"
   },
   {
@@ -156,7 +148,7 @@
     "name" : "Italo Disco Germany",
     "stream" : "https://italo-disco.stream.laut.fm/italo-disco",
     "picture" : "https://assets.laut.fm/8c9067ca2261b700bcc98139d417a6fd",
-    "number" : "18.2",
+    "number" : "19",
     "metadata" : "true"
   },
   {
@@ -164,7 +156,7 @@
     "name" : "Mixitalo",
     "stream" : "https://mixitalo.stream.laut.fm/mixitalo",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
-    "number" : "19",
+    "number" : "20",
     "metadata" : "true"
   },
   {
@@ -172,7 +164,7 @@
     "name" : "Synthizitalo Disco",
     "stream" : "http://synthizitalodisco.stream.laut.fm/synthizitalodisco",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
-    "number" : "20",
+    "number" : "21",
     "metadata" : "true"
   },
   {
@@ -180,7 +172,7 @@
     "name" : "Italo-Disco",
     "stream" : "https://italo-disco.stream.laut.fm/italo-disco",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodefault.jpg",
-    "number" : "21",
+    "number" : "22",
     "metadata" : "true"
   }
 ]
