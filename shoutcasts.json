@@ -2,7 +2,7 @@
   {
     "identificator" : "rmi_ng",
     "name" : "RMI New Generation",
-    "stream" : "https://cast1.torontocast.com:1315/stream",
+    "stream" : "https://cors-anywhere.wcx.cloud/http://phoebe.streamerr.co:5640/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-New.png",
     "number" : "1",
     "metadata" : "true"
@@ -10,7 +10,7 @@
   {
     "identificator" : "rmi_classic",
     "name" : "RMI Disco Classic",
-    "stream" : "https://cast1.torontocast.com:1165/stream",
+    "stream" : "https://cors-anywhere.wcx.cloud/http://phoebe.streamerr.co:4930/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-Classic.png",
     "number" : "2",
     "metadata" : "true"
@@ -18,7 +18,7 @@
   {
     "identificator" : "rmi_euro",
     "name" : "RMI Euro Disco",
-    "stream" : "https://cast1.torontocast.com:1335/stream",
+    "stream" : "https://cors-anywhere.wcx.cloud/http://phoebe.streamerr.co:5190/stream",
     "picture" : "https://fuiwgfb.github.io/52/italo_icon/RMI-Disco.png",
     "number" : "3",
     "metadata" : "true"
