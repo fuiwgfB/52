@@ -112,14 +112,6 @@
     "metadata" : "true"
   },
   {
-    "identificator" : "italodancepilot",
-    "name" : "ItaloDance Pilot",
-    "stream" : "http://145.239.26.146:7694/stream/1/",
-    "picture" : "https://fuiwgfb.github.io/52/italo_icon/italodiscopilot.jpg",
-    "number" : "15",
-    "metadata" : "true"
-  },
-  {
     "identificator" : "oxygen_italo",
     "name" : "Oxygen - Italian Classic Hits",
     "stream" : "https://oxygenmusic.hu:8443/oxygenitalohits_128",
